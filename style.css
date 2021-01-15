@@ -1,0 +1,22 @@
+.button-color {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.doller-color {
+    color: #e83e8c;
+}
+
+.card-border {
+    border: 0;
+    border-radius: 8px;
+}
+
+.card-footer {
+    border: 0;
+    background-color: white;
+}
